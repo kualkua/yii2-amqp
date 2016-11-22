@@ -16,10 +16,5 @@
         "php-amqplib/php-amqplib": "*",
         "webtoucher/yii2-commands": "*"
     },
-    "autoload": {
-        "psr-4": {
-            "webtoucher\\amqp\\": ""
-        }
-    },
     "minimum-stability": "alpha"
 }
