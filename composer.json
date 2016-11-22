@@ -1,5 +1,6 @@
 {
     "name": "kualkua/yii2-amqp",
+    "minimum-stability": "dev",
     "description": "Yii 2 extension wrapper to communicate with RabbitMQ server via AMQP. Based on webtoucher/yii2-amqp",
     "keywords": ["yii", "extension", "amqp", "RabbitMQ"],
     "homepage": "https://github.com/kualkua/yii2-amqp",
