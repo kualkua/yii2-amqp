@@ -4,6 +4,7 @@
     "keywords": ["yii", "extension", "amqp", "RabbitMQ"],
     "homepage": "https://github.com/kualkua/yii2-amqp",
     "type": "yii-extension",
+    "version": "1.0.0",
     "license": "BSD-3-Clause",
     "authors": [
         {
