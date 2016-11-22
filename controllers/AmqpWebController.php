@@ -5,10 +5,10 @@
  * @license https://github.com/webtoucher/yii2-amqp/blob/master/LICENSE.md
  */
 
-namespace webtoucher\amqp\controllers;
+namespace kualkua\amqp\controllers;
 
 use yii\web\Controller;
-use webtoucher\amqp\components\AmqpTrait;
+use kualkua\amqp\components\AmqpTrait;
 
 
 /**

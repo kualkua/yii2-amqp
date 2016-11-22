@@ -16,5 +16,10 @@
         "php-amqplib/php-amqplib": "*",
         "webtoucher/yii2-commands": "*"
     },
-    "minimum-stability": "alpha"
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "kualkua\\amqp\\": ""
+        }
+    }
 }

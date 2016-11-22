@@ -5,13 +5,13 @@
  * @license https://github.com/webtoucher/yii2-amqp/blob/master/LICENSE.md
  */
 
-namespace webtoucher\amqp\components;
+namespace kualkua\amqp\components;
 
 use Yii;
 use PhpAmqpLib\Channel\AMQPChannel;
 use PhpAmqpLib\Connection\AMQPConnection;
-use webtoucher\amqp\components\Amqp;
-use webtoucher\commands\Controller;
+use kualkua\amqp\components\Amqp;
+
 
 
 /**

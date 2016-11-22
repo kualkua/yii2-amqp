@@ -5,16 +5,16 @@
  * @license https://github.com/webtoucher/yii2-amqp/blob/master/LICENSE.md
  */
 
-namespace webtoucher\amqp\controllers;
+namespace kualkua\amqp\controllers;
 
 use yii\console\Exception;
 use yii\helpers\Inflector;
 use yii\helpers\Json;
 use PhpAmqpLib\Message\AMQPMessage;
-use webtoucher\amqp\components\Amqp;
-use webtoucher\amqp\components\AmqpInterpreter;
-use webtoucher\amqp\components\AmpqInterpreterInterface;
-use webtoucher\commands\Controller;
+use kualkua\amqp\components\Amqp;
+use kualkua\amqp\components\AmqpInterpreter;
+use kualkua\amqp\components\AmpqInterpreterInterface;
+use kualkua\commands\Controller;
 
 
 /**
